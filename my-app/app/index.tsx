@@ -10,6 +10,7 @@ export default function Index() {
       }}
     >
       <Text>PitchReels</Text>
+      <Text>HEY</Text>
     </View>
   );
 }
