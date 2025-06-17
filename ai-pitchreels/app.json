@@ -6,10 +6,6 @@
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
-    "plugins": [
-      "@react-native-firebase/app",
-      "@react-native-firebase/auth"
-    ],
     "newArchEnabled": true,
     "splash": {
       "image": "./assets/splash-icon.png",
@@ -18,8 +14,7 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.anonymous.aipitchreels",
-      "googleServicesFile": "./ios/GoogleService-Info.plist"
+      "bundleIdentifier": "com.anonymous.aipitchreels"
     },
     "android": {
       "adaptiveIcon": {
